@@ -3,138 +3,156 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Daisy\Desktop\BOOST_CAMP\SimpleMemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
-        <dex dex="C:\Users\Daisy\Desktop\BOOST_CAMP\SimpleMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_f745fc3248e3d09821772def81cefa4b16a83fda\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Daisy\Desktop\BOOST_CAMP\SimpleMemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
-        <dex dex="C:\Users\Daisy\Desktop\BOOST_CAMP\SimpleMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_28f76337efae2e9af589eac23dfd4cbac9ad674a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Daisy\Desktop\BOOST_CAMP\SimpleMemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
-        <dex dex="C:\Users\Daisy\Desktop\BOOST_CAMP\SimpleMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_d3471d2a09707cb41689cc8a9915e16103f529b0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Daisy\Desktop\BOOST_CAMP\SimpleMemo\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
-        <dex dex="C:\Users\Daisy\Desktop\BOOST_CAMP\SimpleMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.0_4fd3e60d9b533c31e75b966d4266c44d2a8e0b60\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Daisy\Desktop\BOOST_CAMP\SimpleMemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="66911a634df818b1a294bb049e4f17adc347d573">
-        <dex dex="C:\Users\Daisy\Desktop\BOOST_CAMP\SimpleMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_051dbccf12d495393f895805ac72242a723b1718\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Daisy\Desktop\BOOST_CAMP\SimpleMemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\Daisy\Desktop\BOOST_CAMP\SimpleMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_878df2985f7c80293d8beaf483375ea7ab791215\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Daisy\Desktop\BOOST_CAMP\SimpleMemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
-        <dex dex="C:\Users\Daisy\Desktop\BOOST_CAMP\SimpleMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_852f4ee70faf8b82f6956e983d2185ac17844e7a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Daisy\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
-        <dex dex="C:\Users\Daisy\Desktop\BOOST_CAMP\SimpleMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_5185278e764311d2096e11b643794f19ec4951da\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Daisy\Desktop\BOOST_CAMP\SimpleMemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="aee64634871d88a419d59eb743c1258a60f19700">
-        <dex dex="C:\Users\Daisy\Desktop\BOOST_CAMP\SimpleMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_28508291dea445f36f0921075e0d77572754e233\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Daisy\Desktop\BOOST_CAMP\SimpleMemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
-        <dex dex="C:\Users\Daisy\Desktop\BOOST_CAMP\SimpleMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_c90c777cd85f91408fec49b99d3ed806939d5215\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Daisy\Desktop\BOOST_CAMP\SimpleMemo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
-        <dex dex="C:\Users\Daisy\Desktop\BOOST_CAMP\SimpleMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.0_84388ef318556c526a83bdd223221df04be9d8a1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Daisy\Desktop\BOOST_CAMP\SimpleMemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="9fbc13dfdee0f7e4420076d53e3d48493302ebf1">
-        <dex dex="C:\Users\Daisy\Desktop\BOOST_CAMP\SimpleMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_07bfb0e38c81740a9ebfc67d3ee34390cd108200\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Daisy\Desktop\BOOST_CAMP\SimpleMemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
-        <dex dex="C:\Users\Daisy\Desktop\BOOST_CAMP\SimpleMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_43f15607dc9ac3e0165046419ed65fb5be65ef62\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Daisy\Desktop\BOOST_CAMP\SimpleMemo\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jar="/Users/eunjilee/Desktop/simpleMemo/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
-        <dex dex="C:\Users\Daisy\Desktop\BOOST_CAMP\SimpleMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.0_cbc59b1c6c1d2cdcd0c92bf4096a5f7a39155278\classes.dex" />
+        <dex dex="/Users/eunjilee/Desktop/simpleMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.0_c268c0ac24997f101d2f40d01ca02e022bdb18f1/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Daisy\Desktop\BOOST_CAMP\SimpleMemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jar="/Users/eunjilee/Desktop/simpleMemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/eunjilee/Desktop/simpleMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_8900c5188c98f883ca341e92322427e938a77037/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eunjilee/Desktop/simpleMemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/eunjilee/Desktop/simpleMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_4f7432f5e398e0ec505b5aab06f6c7a2a995fcda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eunjilee/Desktop/simpleMemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/eunjilee/Desktop/simpleMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_c4aa2d26167893003b1a83230b5a3b705011d84f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eunjilee/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/eunjilee/Desktop/simpleMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_e670b6d763e2bbc219e038a74480f6b39c636d6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eunjilee/Desktop/simpleMemo/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/eunjilee/Desktop/simpleMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.0_a755fa811ed403e9f314c2c0b3062e1626f22f51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eunjilee/Desktop/simpleMemo/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/eunjilee/Desktop/simpleMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.4.0_a44640e018dd2fee7cc3c0f358ebcf35560d5b0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eunjilee/Desktop/simpleMemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
-        <dex dex="C:\Users\Daisy\Desktop\BOOST_CAMP\SimpleMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_f4d43d347e6e1dd61165978004ca2bdaf8d1ffd6\classes.dex" />
+        <dex dex="/Users/eunjilee/Desktop/simpleMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_9691f64f949d911f1b25ca573e3e323ec10b3144/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eunjilee/Desktop/simpleMemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/eunjilee/Desktop/simpleMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_29d40e3b4aa0b149f83b0d86962058f4afaeb172/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eunjilee/Desktop/simpleMemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/eunjilee/Desktop/simpleMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_aad8c0d57df92def30cbea597c077457eed86553/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eunjilee/Desktop/simpleMemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="89ae7599d24729ff60baa6da5669e47132ce87c8">
+        <dex dex="/Users/eunjilee/Desktop/simpleMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3bb5d794aae344101afaf74fa95feccd341aaec4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eunjilee/Desktop/simpleMemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b64be2cf50fb15c9114cd383a61af16dce9678ec">
+        <dex dex="/Users/eunjilee/Desktop/simpleMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7b73b31b8b8b6d64239cc3d59e5b5d87da92c486/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eunjilee/Desktop/simpleMemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/eunjilee/Desktop/simpleMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_07e05f6c712c98335a3aa8f6163f95e4dad13bdc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eunjilee/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/eunjilee/Desktop/simpleMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.4.0_5832c8faffd179dcae42ef95654b1d47de201bdf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eunjilee/Desktop/simpleMemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/eunjilee/Desktop/simpleMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_7672719ded5c19897293588799572c12b4f6f76c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eunjilee/Desktop/simpleMemo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/eunjilee/Desktop/simpleMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_9d2d4743db55be9308a6ed899251fd25441b4aa6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eunjilee/Desktop/simpleMemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/eunjilee/Desktop/simpleMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_a5e85c28ff0970954b1302251f09ecf1a44465fb/classes.dex" />
     </item>
 
 </items>
